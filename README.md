@@ -17,7 +17,7 @@ A simple Android app built with Jetpack Compose that shows real-time weather dat
 - **Network:** Retrofit + Gson
 - **API Provider:** WeatherAPI (https://www.weatherapi.com/)
 - **Kotlin Coroutines** for async operations
-- **ViewModel** and **StateFlow** for reactive UI updates
+- **ViewModel** and **Jetpack Compose's reactive state** to manage UI updates.
 
 ## Screenshots
 <img width="1384" height="928" alt="Weather" src="https://github.com/user-attachments/assets/cb5caa10-33c6-4166-8803-b5d9130b29e1" />
